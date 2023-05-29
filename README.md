@@ -1,4 +1,4 @@
-# Tech Ecommerce Platform
+# Ecommerce Platform
 
 A full-stack CRUD Laravel and ReactJs E-Commerce platform with a secure authentication system using Laravel Sanctum, with the admin dashboard.
 
@@ -36,18 +36,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * [Tailwind](https://tailwindcss.com/) - CSS framework
 * [MySQL](https://www.mysql.com/) - Database
 * [Amazon S3](https://aws.amazon.com/s3/) - Object storage
-
-
-## Live Demo
-* Click [HERE](https://techshopecom.herokuapp.com) for demo
-* Admin => email: `admin@techshop.com` | password: admin
-* Client => email: `client@techshop.com` | password: client
-
-
-## Author
-
-[**Marwan Ahal**](https://www.soymarwan.com/)
-
 
 ## License
 
